@@ -45,7 +45,6 @@ src/ ├── components/ │
         Si usas React Native CLI:
           npx react-native run-android # Para Android
           npx react-native run-ios     # Para iOS
-   ```
 
 ## 🧑‍💻 Autor
 
